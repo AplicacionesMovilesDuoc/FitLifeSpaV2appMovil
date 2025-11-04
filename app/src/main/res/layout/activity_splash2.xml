@@ -40,7 +40,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="32dp"
-        android:layout_marginBottom="52dp"
+        android:layout_marginBottom="192dp"
         android:background="@drawable/white_bg"
         android:paddingHorizontal="32dp"
         android:text="@string/get_started"
@@ -48,4 +48,5 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/imageView3" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

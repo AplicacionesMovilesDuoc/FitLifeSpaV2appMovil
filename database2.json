@@ -1,0 +1,183 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227628/Banner_mbaybm.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "title": "Pecho"
+    },
+    {
+      "id": 1,
+      "title": "Espalda"
+    },
+    {
+      "id": 2,
+      "title": "Piernas"
+    },
+    {
+      "id": 3,
+      "title": "Hombros"
+    },
+    {
+      "id": 4,
+      "title": "Brazos"
+    }
+  ],
+  "Popular": [
+    {
+      "description": "Press de banca es un ejercicio fundamental para desarrollar la fuerza y masa muscular del pecho. Se realiza acostado en un banco plano, levantando una barra con pesas desde el pecho hasta la extensión completa de brazos. Es ideal para trabajar pectorales, tríceps y deltoides anteriores.",
+      "extra": "Banco plano,Barra,Discos",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Press_de_Banca_ui76rf.jpg"
+      ],
+      "price": 4.5,
+      "rating": 4.8,
+      "title": "Press de Banca"
+    },
+    {
+      "description": "Sentadillas son el ejercicio rey para el desarrollo de piernas y glúteos. Consiste en flexionar rodillas y caderas manteniendo la espalda recta, descendiendo hasta que los muslos queden paralelos al suelo. Trabaja cuádriceps, femorales, glúteos y pantorrillas.",
+      "extra": "Barra,Discos,Rack",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227626/Sentadillas_oyzfds.jpg"
+      ],
+      "price": 5.5,
+      "rating": 4.9,
+      "title": "Sentadillas"
+    },
+    {
+      "description": "Dominadas son un excelente ejercicio para desarrollar la fuerza de la espalda y brazos. Se realiza colgando de una barra y elevando el cuerpo hasta que la barbilla supere la barra. Trabaja principalmente dorsales, bíceps y trapecios.",
+      "extra": "Barra de dominadas",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Dominadas_dnh4cd.jpg"
+      ],
+      "price": 4.3,
+      "rating": 4.5,
+      "title": "Dominadas"
+    },
+    {
+      "description": "Press militar es el ejercicio más efectivo para desarrollar hombros. Se realiza de pie o sentado, levantando una barra o mancuernas desde los hombros hasta arriba de la cabeza. Trabaja deltoides anteriores, laterales y tríceps.",
+      "extra": "Barra,Discos,Banco",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Press_Militar_s0s0p7.jpg"
+      ],
+      "price": 3.5,
+      "rating": 4.7,
+      "title": "Press Militar"
+    }
+  ],
+  "Items": [
+    {
+      "categoryId": "0",
+      "description": "Press de banca con barra es el ejercicio básico para desarrollar pectorales. Se realiza acostado en banco plano, descendiendo la barra hasta el pecho y luego extendiendo los brazos completamente.",
+      "extra": "Banco plano,Barra,Discos",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Press_Banca_Barra_zxdqa7.jpg"
+      ],
+      "price": 8,
+      "rating": 4.8,
+      "title": "Press Banca Barra"
+    },
+    {
+      "categoryId": "1",
+      "description": "Press de banca con mancuernas permite un mayor rango de movimiento y trabajo independiente de cada brazo. Ideal para mejorar la simetría muscular y la estabilidad.",
+      "extra": "Banco plano,Mancuernas",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Press_Banca_Mancuernas_ructnu.jpg"
+      ],
+      "price": 5.5,
+      "rating": 4.6,
+      "title": "Press Banca Mancuernas"
+    },
+    {
+      "categoryId": "2",
+      "description": "Peso muerto es un ejercicio compuesto que trabaja toda la cadena posterior. Se realiza levantando una barra desde el suelo hasta la posición erguida, manteniendo la espalda recta en todo momento.",
+      "extra": "Barra,Discos",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Press_Banca_Mancuernas_ructnu.jpg"
+      ],
+      "price": 3.5,
+      "rating": 4.9,
+      "title": "Peso Muerto"
+    },
+    {
+      "categoryId": "3",
+      "description": "Remo con barra trabaja los músculos de la espalda media y superior. Se realiza flexionando el torso hacia adelante y tirando de la barra hacia el abdomen manteniendo la espalda recta.",
+      "extra": "Barra,Discos",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Remo_con_Barra_xtfodt.jpg"
+      ],
+      "price": 4.5,
+      "rating": 4.7,
+      "title": "Remo con Barra"
+    },
+    {
+      "categoryId": "4",
+      "description": "Jalón al pecho en polea es excelente para desarrollar la anchura de la espalda. Se realiza sentado en la máquina de poleas, tirando de la barra hacia el pecho mientras se mantiene el torso recto.",
+      "extra": "Máquina de poleas",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Jal%C3%B3n_al_Pecho_tfpua1.jpg"
+      ],
+      "price": 5.5,
+      "rating": 4.6,
+      "title": "Jalón al Pecho"
+    },
+    {
+      "categoryId": "5",
+      "description": "Remo con mancuerna a una mano permite un buen estiramiento y contracción del dorsal. Se realiza apoyando una mano y rodilla en el banco mientras se levanta la mancuerna con el brazo libre.",
+      "extra": "Banco,Mancuerna",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227625/Remo_Mancuerna_qqmzlo.jpg"
+      ],
+      "price": 6.6,
+      "rating": 4.5,
+      "title": "Remo Mancuerna"
+    },
+    {
+      "categoryId": "6",
+      "description": "Sentadillas frontales colocan la barra en la parte anterior de los hombros, lo que permite mantener el torso más erguido y reduce la tensión lumbar.",
+      "extra": "Barra,Discos,Rack",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227625/Sentadillas_Frontales_qwr3k1.jpg"
+      ],
+      "price": 4.3,
+      "rating": 4.7,
+      "title": "Sentadillas Frontales"
+    },
+    {
+      "categoryId": "7",
+      "description": "Prensa de piernas es una alternativa excelente para quienes tienen problemas de espalda. Permite trabajar las piernas con menos carga sobre la columna vertebral.",
+      "extra": "Máquina de prensa",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Prensa_de_Piernas_bqv47e.jpg"
+      ],
+      "price": 4.8,
+      "rating": 4.4,
+      "title": "Prensa de Piernas"
+    },
+    {
+      "categoryId": "8",
+      "description": "Extensiones de cuádriceps es un ejercicio de aislamiento para desarrollar la parte frontal del muslo. Se realiza sentado en la máquina específica, extendiendo las piernas contra la resistencia.",
+      "extra": "Máquina de extensiones",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Extensiones_de_Cu%C3%A1driceps_ql4fgp.jpg"
+      ],
+      "price": 5.5,
+      "rating": 4.3,
+      "title": "Extensiones de Cuádriceps"
+    },
+    {
+      "categoryId": "9",
+      "description": "Curl femoral trabaja los músculos isquiotibiales de la parte posterior del muslo. Se realiza acostado boca abajo en la máquina específica, flexionando las piernas contra la resistencia.",
+      "extra": "Máquina de curl femoral",
+      "picUrl": [
+        "https://res.cloudinary.com/dbb7tartt/image/upload/v1762227624/Curl_Femoral_bsk4ve.jpg"
+      ],
+      "price": 4.8,
+      "rating": 4.2,
+      "title": "Curl Femoral"
+    }
+  ]
+}
