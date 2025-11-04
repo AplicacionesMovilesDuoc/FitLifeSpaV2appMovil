@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343087674281",
+    "project_id": "fitlifespaapp02",
+    "storage_bucket": "fitlifespaapp02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343087674281:android:c50614a69a72c23b08cab8",
+        "android_client_info": {
+          "package_name": "com.mjperezm.fitlifespaapp02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQfbIFditz8YuOmk6m1gx7XpufO0kchU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

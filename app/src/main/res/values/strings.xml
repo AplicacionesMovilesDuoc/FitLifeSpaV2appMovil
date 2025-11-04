@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FitLifeSpaApp02</string>
+    <string name="choice_your_n_favorite_exercise">"  Choice your \nFavorite Exercise"</string>
+    <string name="get_started">Get Started</string>
+</resources>
